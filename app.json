@@ -8,7 +8,7 @@
         "bot"
     ],
     "repository": "https://github.com/donui-bit/Rename-Bot",
-    "website": "https://abirhasan.wtf",
+    "website": "https://github.com/donui-bit/Rename-Bot",
     "success_url": "https://t.me/AH_RenameBot",
     "env": {
         "API_ID": {
